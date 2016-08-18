@@ -1,0 +1,17 @@
+{
+    "name": "lusitana-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ana Paula Megda"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lusitana-bower.git"
+    },
+    "description": "Lusitana font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
